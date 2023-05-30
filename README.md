@@ -120,7 +120,9 @@ I have added the linters or tests in order to avoid anykind of typos and ensure 
 ### Deployment
 
 - You can easily use github pages to deploy your project
-  <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pagess">Useful link about Github Pages</a>
+  <a href="https://docs.github.com/en/pages/quickstart">Useful link about Github Pages</a>
+  <a href="https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/">Step by Step guide to deploy using netlify</a>
+  <a href="https://www.programonaut.com/host-your-application-for-free-with-vercel-step-by-step/">Step by Step guide to deploy using vercel</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,11 +130,11 @@ I have added the linters or tests in order to avoid anykind of typos and ensure 
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 Ghaus Ali Khan
+👤 Sodeeq Awoyemi
 
-- GitHub: [@githubhandle](https://github.com/GhausAliKhan)
-- Twitter: [@twitterhandle](https://twitter.com/GhausKhann)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ghaus-ali-khan-2a48aa256/)
+- GitHub: [@githubhandle](https://github.com/Errytagedesign)
+- Twitter: [@twitterhandle](https://twitter.com/errytage)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/errytagedesigns/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
