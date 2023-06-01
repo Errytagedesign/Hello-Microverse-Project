@@ -83,7 +83,7 @@ Run this Command:
 
 ```sh
   cd my-folder
-  git clone git@github.com:GhausAliKhan/Hello-Microverse-Project.git
+  git clone git@github.com:Errytagedesign/Hello-Microverse-Project.git
 ```
 
 ### Install
